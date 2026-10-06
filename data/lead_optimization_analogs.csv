@@ -1,0 +1,8 @@
+Molecule,MW (Da),cLogP,TPSA (Å²),HBD,HBA,RotB,QED,SAScore,Ro5_Violations,Pfizer_3_75,MPO_Score,Est_DeltaG_kcal_mol,Pred_Ki_nM,Ligand_Efficiency
+Erlotinib (Parent Lead),393.44,3.41,74.73,1,7,10,0.764,2.5,0,Alert,0.891,-6.56,23923.2,0.226
+"Analog-1 (C6-Fluoro, des-PEG)",337.35,3.65,56.27,1,5,5,0.909,2.0,0,Alert,0.885,-6.69,19373.4,0.279
+Analog-2 (C6-Morpholino Solubilized),404.47,2.85,71.41,1,7,6,0.838,2.0,0,Pass,0.955,-6.74,17863.6,0.232
+Analog-3 (C6-N-Methylpiperazine),417.51,2.45,66.83,1,7,6,0.815,2.0,0,Pass,0.936,-6.44,29066.0,0.215
+Analog-4 (C6-Methoxy Bioisostere / Gefitinib-like),349.39,3.2,62.43,1,6,6,0.929,2.0,0,Alert,0.982,-6.2,42732.2,0.248
+Analog-5 (C6-Tetrazole Acid Isostere),387.39,1.95,105.14,2,8,5,0.782,2.0,0,Pass,0.825,-6.21,41874.2,0.222
+Lead-Opt-06 (Optimized MPO Candidate),431.54,2.7,69.95,1,7,7,0.77,2.0,0,Pass,0.911,-6.48,27350.1,0.209
